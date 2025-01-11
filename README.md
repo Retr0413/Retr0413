@@ -49,6 +49,3 @@
 
 ## Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Retr0413&layout=donut&hide_border=true" align="center" />
-
-## WakaTimeStatus
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Retr0413&hide_border=true" align="center" />
