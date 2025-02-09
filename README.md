@@ -1,8 +1,7 @@
 ### Webバックエンド志望の大学３年生
 
 - HomePage : https://www.a-defalthayato.com/
-- 友人のレゴテキストサイト : https://daodaotextpage-29315368475.asia-northeast1.run.app
-
+- 友人のレゴテキストサイト : https://daodaotext.com/
 <br/>
 
 ## My Skill Set  
