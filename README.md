@@ -4,7 +4,7 @@
 - 友人のレゴテキストサイト : https://daodaotext.com/
 <br/>
 
-## My Skill Set  
+## スキル  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
