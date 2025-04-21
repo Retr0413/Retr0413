@@ -1,4 +1,4 @@
-### Webバックエンド志望の大学３年生
+### Webバックエンド志望の大学4年生
 
 - HomePage : https://www.a-defalthayato.com/
 - 友人のレゴテキストサイト : https://daodaotext.com/
