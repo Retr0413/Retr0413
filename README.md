@@ -3,7 +3,7 @@
 - HomePage : https://www.a-defalthayato.com/
 - 友人のレゴテキストサイト : https://daodaotext-frontend-29315368475.asia-northeast1.run.app
 <!-- ヘッダーバナー（赤オレンジグラデーション） -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=250&section=header&text=Hayato%20Arima&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=250&section=header&text=Retr0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <p align="center">
   <a href="https://www.a-defalthayato.com/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-ff512f?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
