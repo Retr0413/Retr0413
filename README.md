@@ -57,7 +57,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Retr0413&theme=radical&hide_border=true&border_radius=5" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Retr0413&theme=tokyonight&hide_border=true&border_radius=5" height="160"/>
 </p>
 
 ---
