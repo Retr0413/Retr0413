@@ -1,6 +1,4 @@
 ### Webバックエンド志望の大学4年生
-- HomePage : https://www.a-defalthayato.com/
-- 友人のレゴテキストサイト : https://daodaotext-frontend-29315368475.asia-northeast1.run.app
 
 <!-- ヘッダーバナー（青色グラデーション） -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0099ff&height=250&section=header&text=Retr0&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
