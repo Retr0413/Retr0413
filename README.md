@@ -141,8 +141,6 @@ const retr0 = {
   </picture>
 </p>
 
-> ⚠️ **Note**: スネークアニメーションを有効にするには、[このガイド](https://github.com/Platane/snk)に従ってGitHub Actionsをセットアップしてください。
-
 <br/>
 
 <!-- Connect セクション -->
