@@ -31,24 +31,28 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-```typescript
-const retr0 = {
-    location: "Japan 🇯🇵",
-    education: "4th Year Engineering Student",
-    role: "Part-time @ Programming School",
-    
-    interests: [
-        "Distributed Systems",
-        "AI Agent Development", 
-        "Game Development",
-        "Interactive Art (TeamLab-style)"
-    ],
-    
-    currentFocus: "Web Backend Development",
-    
-    funFact: "I automate everything I can 🤖"
-};
-```
+<table>
+  <tr>
+    <td>📍 Location</td>
+    <td>Japan 🇯🇵</td>
+  </tr>
+  <tr>
+    <td>🎓 Education</td>
+    <td>4th Year Engineering Student</td>
+  </tr>
+  <tr>
+    <td>💼 Role</td>
+    <td>Part-time @ Programming School</td>
+  </tr>
+  <tr>
+    <td>🎯 Current Focus</td>
+    <td>Web Backend Development</td>
+  </tr>
+  <tr>
+    <td>💡 Interests</td>
+    <td>Distributed Systems / AI Agent Development / Game Development / Interactive Art</td>
+  </tr>
+</table>
 
 <br/>
 
